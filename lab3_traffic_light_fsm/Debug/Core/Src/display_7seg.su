@@ -1,0 +1,8 @@
+display_7seg.c:5:6:enable_EN0	8	static
+display_7seg.c:10:6:enable_EN1	8	static
+display_7seg.c:15:6:enable_EN2	8	static
+display_7seg.c:20:6:enable_EN3	8	static
+display_7seg.c:27:6:display7SEG_Group1	16	static
+display_7seg.c:56:6:display7SEG_Group2	16	static
+display_7seg.c:114:6:update7SEG_group1	24	static
+display_7seg.c:133:6:update7SEG_group2	24	static

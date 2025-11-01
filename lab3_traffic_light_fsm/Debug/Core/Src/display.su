@@ -1,0 +1,5 @@
+display.c:10:6:display7SEG_group1	24	static
+display.c:21:6:display7SEG_group2	24	static
+display.c:32:6:enable_led	16	static
+display.c:46:6:display_scan	8	static
+display.c:58:6:display_set_buffer	24	static
