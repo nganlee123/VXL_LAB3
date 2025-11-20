@@ -16,12 +16,6 @@ int counter2 = 0;
 void fsm_automatic_run(void){
     switch(auto_state){
     case INIT:
-        setRoad1(RED);
-        setRoad2(GREEN);
-        counter1 = red_time;
-        counter2 = green_time;
-        setTimer3(green_time * 1000);
-        setTimer4(1000);
         auto_state = RED_GREEN;
         break;
 
